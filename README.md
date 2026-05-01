@@ -1,2 +1,2 @@
 # gaming-e-commerce-website
-ecommerce website for game copies
+ecommerce website for games productt
